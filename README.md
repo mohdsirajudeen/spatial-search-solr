@@ -7,11 +7,11 @@ This project is a perfect example for spatial searchin Solr to locate near-by St
 3. Terminal
 
 #### ***Solr Setup***
-Download Solr from https://solr.apache.org/downloads.html.  
-Extract the download tar file  
-Launch Terminal  
-Set SOLR_HOME=<path_extracted_directory>  
-Start Solr 1 in Port 8983  using the command  
+1. Download Solr from https://solr.apache.org/downloads.html.  
+2. Extract the downloaded tar file  
+3. Launch Terminal  
+4. Set SOLR_HOME=<path_extracted_directory>  
+5. Start Solr Cloud in Port 8983 using the command  
 `$SOLR_HOME/bin/solr start -c -p 8983`  
 
 
