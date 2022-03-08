@@ -1,5 +1,5 @@
 # spatial-search-solr
-This project has spatial search for Starbucks Stores around the world
+This project is a perfect example for spatial searchin Solr to locate near-by Starbucks Stores
 
 #### ***Pre-requisite***
 1. JDK 1.8.x or above
